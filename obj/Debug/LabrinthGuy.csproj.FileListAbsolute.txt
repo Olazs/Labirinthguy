@@ -1,0 +1,7 @@
+D:\Labirintus program alap\LabirinthGuy\LabrinthGuy\bin\Debug\LabrinthGuy.exe.config
+D:\Labirintus program alap\LabirinthGuy\LabrinthGuy\bin\Debug\LabrinthGuy.exe
+D:\Labirintus program alap\LabirinthGuy\LabrinthGuy\bin\Debug\LabrinthGuy.pdb
+D:\Labirintus program alap\LabirinthGuy\LabrinthGuy\obj\Debug\LabrinthGuy.csprojAssemblyReference.cache
+D:\Labirintus program alap\LabirinthGuy\LabrinthGuy\obj\Debug\LabrinthGuy.csproj.CoreCompileInputs.cache
+D:\Labirintus program alap\LabirinthGuy\LabrinthGuy\obj\Debug\LabrinthGuy.exe
+D:\Labirintus program alap\LabirinthGuy\LabrinthGuy\obj\Debug\LabrinthGuy.pdb
